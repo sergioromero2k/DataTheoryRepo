@@ -2,10 +2,15 @@
 
 ## Pasos a seguir 
 
-1. Identificar las entidades del sistema.
-2. Identificar los atributos de las entidades.
-3. Identificar las llaves primarias y foráneas.
+1. Identificar las entidades del sistema.      => Definir como los titulos, Ejm: Carreras, Distancias, ...etc.
+2. Identificar los atributos de las entidades. => Definir como los subtitulos, Ejm: Carreras: Id de carrera, nombre, ...etc.
+3. Identificar las llaves primarias y foráneas.=> Relación, llave primaria y luego foraneas => PK, FK.
 4. Asginar una nomenclatura adeacuada a las entidades y sus atributos.
+<!--
+        Las entidades, siempre en plural.
+        Los atributos, siempre en singular.
+        Siempre en minuscula, sin acento, y no espacio, sino "_" (Guion bajo).
+-->
 
 5. Identificar las entidades pivote del sistema.
 6. Identificar los catálagos del sistema.
