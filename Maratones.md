@@ -32,7 +32,7 @@
 1. Una **carrera** _pertenece_ a un **tipo de carrera**. (_1 a 1_)
 2. Una **carrera** se _corre_ en un **país**.           (_1 a 1_)
 
-pepepeppe
+## Si funciona perfe
 <!-- 
 Falta paso 4. Asginar una nomenclatura adeacuada a las entidades y sus atributos.
 
