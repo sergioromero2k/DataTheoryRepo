@@ -64,3 +64,5 @@ Falta paso 4. Asginar una nomenclatura adeacuada a las entidades y sus atributos
 
 - Id de País **(PK)**
 - Nombre -->
+
+
