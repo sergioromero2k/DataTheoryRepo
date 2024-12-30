@@ -28,8 +28,8 @@
 
 ## Relaciones
 
-1. Una **carrera** _pertenece_ a un **tipo de carrera**. (_1 a 1_)
-2. Una **carrera** se _corre_ en un **país**.           (_1 a 1_)
+1. Una **carrera** _pertenece_ a un **tipo de carrera**. (_1 a M_)
+2. Una **carrera** se _corre_ en un **país**.           (_1 a M_)
 
 ## Diagramas
 
@@ -53,7 +53,7 @@
 
 ### tipos_carreras
 
-1.  Crear el registro de un tipo de carrera.
+1.  Crear el registro de un tipo de carrera, deberán estar expresados en _km_ y o no se podrán repetir.
 2.  Leer el registro de uno(s) tipo(s) de carrera(s) dada un condición en particular.
 3.  Leer todos los registros de la entidad tipos carreras.
 4.  Actualizar los datos de un tipo de carrera dada una condición en particular.
